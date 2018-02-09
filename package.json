@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Creating a hangman command-line game using constructor functions (advanced JavaScript).",
+  "main": "constructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WslyStvnChng/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WslyStvnChng/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/WslyStvnChng/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  }
+}
