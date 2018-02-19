@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/WslyStvnChng/Constructor-Hangman#readme",
   "dependencies": {
+    "colors": "^1.1.2",
+    "figlet": "^1.2.0",
     "inquirer": "^5.1.0",
+    "is-letter": "^1.1.1",
     "prompt": "^1.0.0"
   }
 }
